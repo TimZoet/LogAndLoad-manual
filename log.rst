@@ -11,7 +11,6 @@ Log
     log/order
     log/regions
     log/source_info
-    log/timestamps
 
 All logging starts with creating a :code:`lal::Log` object. The constructor takes two parameters. The first is a path to
 the file to which the log messages are going to be written. The second parameter is the size of the global buffer in

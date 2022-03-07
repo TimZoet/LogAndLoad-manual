@@ -11,4 +11,3 @@ Format
     format/order
     format/regions
     format/source_info
-    format/timestamps
