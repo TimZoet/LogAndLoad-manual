@@ -7,3 +7,4 @@ Analyze
     :hidden:
 
     analyze/expand_reduce
+    analyze/intersect
