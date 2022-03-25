@@ -6,5 +6,6 @@ Analyze
     :titlesonly:
     :hidden:
 
+    analyze/filter
     analyze/expand_reduce
     analyze/intersect

@@ -7,10 +7,8 @@ of logical operators.
 
 .. code-block:: cpp
 
-    lal::Analyzer analyzer;
-    ...
-    lal::Tree treeA(analyzer);
-    lal::Tree treeB(analyzer);
+    lal::Tree treeA(...);
+    lal::Tree treeB(...);
     ...
 
     treeA |= treeB;

@@ -9,9 +9,7 @@ that is enabled:
 
 .. code-block:: cpp
 
-    lal::Analyzer analyzer;
-    ...
-    lal::Tree tree(analyzer);
+    lal::Tree tree(...);
     ...
 
     // Enable any node that has an enabled node at most 3 spots to the left, or 1 to the right.
